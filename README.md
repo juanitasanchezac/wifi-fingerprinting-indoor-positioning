@@ -4,7 +4,7 @@ MATLAB implementation of a Wi-Fi fingerprinting-based indoor positioning system.
 
 ##  Context
 
-This is an **academic exercise** from the **Positioning & Location-Based Services** course. The problem statement, room configuration, and datasets were provided by the professor.
+This is an **academic exercise** from the **Positioning & Location-Based Services** course from Politecnico di Milano. The problem statement, room configuration, and datasets were provided by the professor.
 
 ### Problem Statement
 
