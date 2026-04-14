@@ -1,8 +1,8 @@
-# wifi-fingerprinting-indoor-positioning
-Wi-Fi fingerprinting indoor positioning using RSSI measurements. Course project with provided dataset and problem statement.
-# Wi-Fi Fingerprinting Indoor Positioning
-
 # Wi-Fi Fingerprinting Indoor Positioning (MATLAB)
+Wi-Fi fingerprinting indoor positioning using RSSI measurements. Course project with provided dataset and problem statement.
+
+
+
 
 **Academic Exercise** | Positioning & Location-Based Services Course
 
