@@ -1,16 +1,10 @@
 # Wi-Fi Fingerprinting Indoor Positioning (MATLAB)
-Wi-Fi fingerprinting indoor positioning using RSSI measurements. Course project with provided dataset and problem statement.
-
-
-
-
-**Academic Exercise** | Positioning & Location-Based Services Course
 
 MATLAB implementation of a Wi-Fi fingerprinting-based indoor positioning system. This project uses provided calibration data and RSSI measurements to estimate user positions in a rectangular room.
 
 ##  Context
 
-This is an **academic exercise** from the **Positioning & Location-Based Services** course. The problem statement, room configuration, and datasets were provided by the instructor.
+This is an **academic exercise** from the **Positioning & Location-Based Services** course. The problem statement, room configuration, and datasets were provided by the professor.
 
 ### Problem Statement
 
